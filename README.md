@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>loyalwitching</title>
+    <title>loyal</title>
 
     <style>
         * {
@@ -15,7 +15,7 @@
         body {
             min-height: 100vh;
             background: #080808;
-            color: #fff;
+            color: white;
             font-family: Arial, Helvetica, sans-serif;
             display: flex;
             justify-content: center;
@@ -46,7 +46,6 @@
         h1 {
             font-size: 32px;
             font-weight: 600;
-            letter-spacing: -1px;
             margin-bottom: 10px;
         }
 
@@ -93,9 +92,9 @@
 
         <div class="avatar">L</div>
 
-        <h1>loyalwitching</h1>
+        <h1>loyal</h1>
 
-        <div class="username">@loyalwitching</div>
+        <div class="username">@loyal</div>
 
         <div class="links">
             <a class="link" href="https://github.com/loyalwitching" target="_blank">
@@ -104,7 +103,7 @@
         </div>
 
         <div class="footer">
-            loyalwitching.github.io
+            loyal
         </div>
 
     </main>
